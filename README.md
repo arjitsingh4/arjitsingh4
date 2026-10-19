@@ -1,8 +1,3 @@
-# 💫 Hi 👋, I'm Arjit Singh
-**High School Student**
-
-Email Me 👉 ✉️ **arjitsingh251211@proton.me** For Collaboration/Project or Anything Else. 😊😊
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=YummyYakuza&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=YummyYakuza&theme=catppuccin_mocha&hide_border=false)<br/>
